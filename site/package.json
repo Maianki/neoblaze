@@ -20,7 +20,7 @@
 	"hugo-bin": {
 		"buildTags": "extended"
 	},
-	"devDependencies": {
+	"dependencies": {
 		"hugo-bin": "^0.95.0",
 		"@fullhuman/postcss-purgecss": "^5.0.0",
 		"autoprefixer": "^10.4.13",
