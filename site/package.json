@@ -28,6 +28,6 @@
 		"npm-run-all": "^4.1.5",
 		"postcss": "^8.4.18",
 		"sass": "^1.56.1",
-		"postcss-cli": "*",
+		"postcss-cli": "latest",
 	}
 }
